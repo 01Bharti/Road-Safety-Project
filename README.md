@@ -43,3 +43,5 @@ Storytelling in a Qlik project involves crafting a narrative around the insights
 derived from data analysis using Qlik Sense. This approach focuses on presenting data
 compellingly and informatively, engaging stakeholders and effectively communicating key
 insights.
+# Demonstration Video
+https://drive.google.com/file/d/1XRBKKy-a1PZ1vsOrnPpVxtRe-W8vn-eF/view?usp=drive_link
